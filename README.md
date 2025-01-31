@@ -2,4 +2,4 @@
 
 Direkt olarak dosyaya tıklayıp kopyala-yapıştır yapabilir veya dosyayı indirebilirsiniz.
 
-Web Sitemiz: otonomsera.my.canva.site
+Web Sitemiz: https.otonomsera.my.canva.site
